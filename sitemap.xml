@@ -1,19 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/10/11/deploying-octopress-to-github-pages/</loc>
-        <lastmod>2013-10-11T23:20:29+02:00</lastmod>
+        <loc>http://alpargabos.github.io/blog/2012/07/22/intro/</loc>
+        <lastmod>2013-10-12T01:26:50+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-10-11T23:20:29+02:00</lastmod>
+        <loc>http://alpargabos.github.io/blog/2012/07/22/the-problem-with-pingdom/</loc>
+        <lastmod>2013-10-12T01:26:50+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-10-11T23:20:29+02:00</lastmod>
+        <loc>
+            http://alpargabos.github.io/blog/2013/10/11/deploying-octopress-to-github-pages/
+        </loc>
+        <lastmod>2013-10-12T13:44:35+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
-        <lastmod>2013-10-11T23:09:14+02:00</lastmod>
+        <loc>http://alpargabos.github.io/about/</loc>
+        <lastmod>2013-10-12T01:26:50+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpargabos.github.io/blog/archives/</loc>
+        <lastmod>2013-10-12T13:44:35+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpargabos.github.io/blog/</loc>
+        <lastmod>2013-10-12T13:44:35+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpargabos.github.io/</loc>
+        <lastmod>2013-10-12T14:01:15+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpargabos.github.io/robots.txt</loc>
+        <lastmod>2013-10-12T01:26:50+02:00</lastmod>
     </url>
 </urlset>
