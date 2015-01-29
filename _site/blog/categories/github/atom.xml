@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: github | Knowledge snippets]]></title>
+  <link href="http://alpargabos.github.io/blog/categories/github/atom.xml" rel="self"/>
+  <link href="http://alpargabos.github.io/"/>
+  <updated>2013-10-18T09:06:30+02:00</updated>
+  <id>http://alpargabos.github.io/</id>
+  <author>
+    <name><![CDATA[Alpár Gábos]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Deploying Octopress to Github Pages]]></title>
+    <link href="http://alpargabos.github.io/blog/2013/10/11/deploying-octopress-to-github-pages/"/>
+    <updated>2013-10-11T23:11:00+02:00</updated>
+    <id>http://alpargabos.github.io/blog/2013/10/11/deploying-octopress-to-github-pages</id>
+    <content type="html"><![CDATA[<p>Hello,</p>
+
+<p>this is my first post!</p>
+
+<!-- more -->
+
+
+<p>yuhheeee :)</p>
+
+<p>Cooolll!</p>
+]]></content>
+  </entry>
+  
+</feed>
